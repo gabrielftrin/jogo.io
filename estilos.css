@@ -1,5 +1,30 @@
-menu {
-	background-color: rgb();
-
-
+header {
+    display: block;
+    padding: 18px 18px;
+    text-align:center;
 }
+
+ul {
+    list-style-type: none; /* Barra de navegação não precisa de marcador */
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    overflow: hidden;
+    text-align: center;
+}
+
+li {
+    float:left;
+}
+    /* Faz com que os blocos fiquem um ao lado do outro */
+    li a {
+        display: block; /* Faz com que todo o bloco seja um link */
+        text-decoration: none; /* Remove a aparência de link */
+        color: white;
+        padding: 14px 16px;
+    }
+
+        li a:hover {
+            background-color: #0000FF;
+            color: white;
+        }
