@@ -1,3 +1,2 @@
 # SistemasWeb20192
-Sobrevivência Estudantil da Universidade Federal da Bahia
-Um projeto para a disciplina Sistema Web 
+Sobrevivência Estudantil na Universidade Federal da Bahia, um projeto para a disciplina Sistema Web
