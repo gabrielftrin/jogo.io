@@ -9,9 +9,11 @@ $(document).ready(function() {
 	});
 
 	$("canvas").drawImage({
-		source: 'imagens\hero.png',
+		source: 'imagens/fundo.jpg',
+		width: 640,
+		height: 480,		
 		x: 320,
-		y: 240
+		y: 240,
 	});
 
 });
