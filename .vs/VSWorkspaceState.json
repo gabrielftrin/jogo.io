@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bibliotecas",
+    "\\estilos",
+    "\\imagens",
+    "\\scripts"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\imagens\\aluno.png",
   "PreviewInSolutionExplorer": false
 }
