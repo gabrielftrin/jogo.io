@@ -1,3 +1,18 @@
+var personagem;
+
+class Personagem
+{
+	constructor(x, y, velx, vely, largura, altura, imagem)
+	{
+		this.x = x;
+		this.y = y;
+		this.velx = velx;
+		this.vely = vely;
+		this.largura = largura;
+		this.altura = altura;
+		this.imagem = imagem;
+	}
+}
 
 $(document).ready(function() {
 
@@ -46,18 +61,6 @@ function movimentarPersonagem() {
 }
 
 /*
-class Personagem {
-	constructor(x, y, velx, vely, width, height, src) {
-		this.x = x;
-		this.y = y;
-		this.velx = velx;
-		this.vely = vely;
-		this.width = width;
-		this.height = height;
-		this.src = src;
-	}
-}
-
 var personagem;
 
 $(document).ready(function() {
